@@ -1,0 +1,19 @@
+.menu{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    gap:10px;
+}
+.menu  a{
+    text-decoration: none;
+    color: black;
+}
+.menu a:hover{
+    color: blue;
+    font-size: 20px;
+    border-bottom: 1px groove blue;
+    border-radius: 5%;
+    padding: 5%;
+   
+    
+}
